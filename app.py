@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load model
-model = joblib.load(r"C:\Users\USER\Desktop\project001\student_score_model.pkl")
+model = joblib.load("student_score_model.pkl")
 
 st.title("Student Exam Score Predictor")
 
