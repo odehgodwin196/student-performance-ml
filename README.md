@@ -8,6 +8,17 @@ This project develops a machine learning model that predicts students' final exa
 
 By predicting student performance early, educators can provide targeted interventions to students who may be at risk of poor academic outcomes.
 
+libraries used are:
+
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+
+
 2. Problem Statement
 
 Many schools lack tools to identify students who may perform poorly before final examinations.
